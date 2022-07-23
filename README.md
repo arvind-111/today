@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ This project is about you can add your today task to do and you can delete it also .
 ## Available Scripts
-
+ 
 In the project directory, you can run:
 
 ### `npm start`
